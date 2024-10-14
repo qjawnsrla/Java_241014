@@ -25,6 +25,7 @@ public class StreamApply {
                 .sorted()
                 .forEach(e->System.out.print(e + " "));
 
+
     }
 }
 
