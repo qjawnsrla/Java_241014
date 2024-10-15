@@ -37,6 +37,7 @@ class TravelCustomer {
         this.name = name;
         this.age = age;
         this.price = price;
+
     }
 
     public String getName() {
